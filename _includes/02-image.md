@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Image of Mel](https://avatars3.githubusercontent.com/u/15675688?s=460&v=4)
