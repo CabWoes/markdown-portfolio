@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Mel's Attributes
+* Programming
+  * *C, C++, HTML5, CSS3, VB.NET*
+* Art
+  * **Digital:** Corel Studios, Photoshop Suites, ArtFlow
+  * **Traditional:** Watercolor, Ink
